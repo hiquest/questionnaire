@@ -1,0 +1,29 @@
+{
+  "name": "questionnaire",
+  "version": "1.0.0",
+  "description": "Simple questionnaire implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiquest/questionnaire.git"
+  },
+  "keywords": [
+    "question",
+    "io",
+    "input",
+    "ask"
+  ],
+  "author": "Yanis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiquest/questionnaire/issues"
+  },
+  "homepage": "https://github.com/hiquest/questionnaire#readme",
+  "dependencies": {
+    "readline-sync": "^1.2.19",
+    "underscore": "^1.8.3"
+  }
+}
