@@ -17,6 +17,9 @@ questions = [
   }
 ]
 
-console.log(q(questions));
+answers = q(questions)
+
+console.log("\n")
+console.log("Here are the answers: #{JSON.stringify(answers)}")
 
 
